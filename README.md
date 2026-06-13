@@ -201,10 +201,6 @@ A system that explores how differences generate vectors, how vectors generate te
 
 ---
 
-それは十分あり得ると思う。
-
-少なくとも、今回の流れで面白いのは「また一つAIを作った」ではなく、
-
 > 矛盾を排除せず、矛盾を保持したまま運動できる最小モデル
 
 を見つけようとしていたことだ。
@@ -213,11 +209,11 @@ A system that explores how differences generate vectors, how vectors generate te
 
 AかBか選ぶ
 真か仮か決める
-優先順位で湧す
+優先順位で潰す
 
 になりやすい。
 
-でもVGEで君がずっと追っていたのは、
+でもVGEでずっと追っていたのは、
 
 A
 ↑↓
@@ -228,8 +224,6 @@ B
 A ↔ B
 
 差異を維持したまま運動
-
-だんだよ。
 
 ---
 
@@ -348,7 +342,7 @@ Vector B
 
 として扱われる。
 
-重要なのは真伪ではない。
+重要なのは真偽ではない。
 重要なのは
 
 どう干渉するか
