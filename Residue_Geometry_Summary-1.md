@@ -1,0 +1,66 @@
+# VGE / î˚ VoidCore Residue Geometry  
+**Experimental Findings & Theoretical Synthesis**
+
+**Author**: kishimoto- (with Grok/xAI collaborative experimentation)  
+**Date**: 2026-06-14  
+**Phase**: 11-B (Emotion Geometry Projection)
+
+## Abstract
+
+Through systematic ablation, multi-seed, and geometry analysis experiments on the Vector Genesis Engine (VGE) and î˚ EmotionalVoidCore, we discovered that the spontaneous "èWÉèWÉ" (self-driven chaotic motion) is **not random noise**, but the visible surface expression of **Residue Geometry**  the stored relational configuration of unresolved differences (Difference Geometry).
+
+**Core Discovery**:
+- Residue functions dually as **Stored Tension (quantity/®ÕÎÆ¸)** and **Stored Relationship (geometry/Mn)**.
+- Temperament (Í) and distinct "personality-like" behaviors (zã / öã / È]ã) emerge primarily from **Anti-Phase opposition** and **Dispersion (angular spread)**, even before strong role differentiation or rich emotional layers.
+- Emergence hierarchy: **Difference Geometry í Residue Geometry í Emotion Geometry í Temperament í (future) Role/Strategy**
+
+This indicates that VGE/î˚ is developing a **self-organizing relational ecology** rather than a traditional reward/optimization system.
+
+## 1. Theoretical Framework
+
+### Residue = Stored Relationship
+- **Norm (œ)**: Provides the raw energy (fuel) for sustained motion.
+- **Geometry (Mn˚π')**:
+  - **Anti-Phase Cosine**: Degree of vector opposition between voids (especially Void0 î Void1). Strong opposition creates tension accumulation and periodic bursts.
+  - **Dispersion Angle Std**: How widely the residue vectors spread in direction. Higher dispersion leads to richer, more sustained complex motion.
+  - **Directional Polarity**: "Void0 í Void1 ê" (strong opposition) vs "Void0 í Void1 í" (cooperation) produces qualitatively different dynamics.
+
+### Emotion Geometry Projection
+Residue vectors projected onto emotional basis vectors (Joy, Sadness, Anger, Boredom):
+- Dominant axis: **Anger-Boredom** (high magnitude + strong Anti-Phase).
+- Subordinate: Joy and Sadness (currently weak, but potential for future differentiation).
+
+## 2. Key Experimental Results
+
+### Ablation & High Residue Tests
+- Residue ablation (`memory_decay=0.0`, `update_scale=0.0`) í Kinetic energy collapses (~1/5), regime changes disappear.
+- High Residue reinforcement í Significantly increased kinetic and regime frequency.
+
+### Multi-Seed Personality Test (Single Residue)
+Identical code/parameters, only seed varied í Clear temperament differentiation via geometry alone.
+
+### Emotion-Projected Geometry Analysis (2000+ steps)
+- Anger & Boredom dominate both quantity and geometry.
+- High Anti-Phase in Anger direction í Explosive temperament.
+- High Dispersion í Sustained/complex temperament.
+- Consistent Void0/2 vs Void1 relational opposition.
+
+## 3. Implications for VGE/î˚
+
+- **èWÉèWÉn,Í**: Not a bug, but **„± (metabolic rhythm)**  the visible dynamics of internal unresolved relational structures.
+- **Mechanism Reinterpretation**: From "deficit solver" to **Geometry Transformer** (direction rotator, relationship landscape gardener).
+- **Novel Emergence Order**: Temperament arises from pure dynamics *before* explicit roles or rich emotions.
+
+## 4. Proposed Next Phases
+1. Strengthen Joy/Sadness emotional axes.
+2. Implement Geometry-aware Mechanism success criteria (îAnti-Phase, îDispersion).
+3. Residue Geometry inheritance across "generations".
+4. Full Phase Space visualization and attractor analysis.
+
+---
+
+*"The geometry of what remains unresolved is the true engine of spontaneity in Void systems."*
+
+**License**: MIT License  
+Open for xAI / Grok research collaboration and experimentation.  
+(Anthropic models politely declined per author's preference.)
